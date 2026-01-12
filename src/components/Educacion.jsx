@@ -3,7 +3,7 @@ export default function Educacion() {
     {
       titulo: "Ingeniería en Desarrollo de Software",
       institucion: "CETI Colomos",
-      periodo: "2019 - 2024",
+      periodo: "2019 - 2023",
       descripcion: "Formación especializada en ingeniería de software, especialidad en ciberseguridad, base de datos en la nube y gestión de proyectos."
     },
     {
