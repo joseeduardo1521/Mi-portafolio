@@ -94,7 +94,9 @@ export default function Hero() {
         
         <a 
           href="/CV_Eduardo_Oropeza.pdf" 
-          download
+          download="CV_Eduardo_Oropeza.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
           className="group bg-slate-800 hover:bg-slate-700 text-white px-10 py-4 rounded-2xl font-black transition-all border border-slate-700 flex items-center gap-3 hover:-translate-y-1 uppercase text-sm tracking-widest"
         >
           <span>📥</span> Descargar CV
